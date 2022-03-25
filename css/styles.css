@@ -1,7 +1,10 @@
 
 body {background: black}
  h1 {color: white;
-    text-align: center}
+    text-align: center;
+    border: 5px;
+    border-color: aqua;
+    border-radius: round;}
 h2 {color:purple;
     text-align: center;}
 p {color: white}
